@@ -1,48 +1,45 @@
-[submodule "qbar"]
-    path = site/qbar
-    url = git://github.com/kafene/qbar.git
-[submodule "BookmarkletCombiner"]
-    path = site/BookmarkletCombiner
-    url = git://github.com/kafene/BookmarkletCombiner.git
-[submodule "userscripts"]
-    path = site/userscripts
-    url = git://github.com/kafene/userscripts.git
-[submodule "marked"]
-    path = asset/marked
-    url = git://github.com/chjj/marked.git
-[submodule "CodeMirror‎"]
-    path = asset/CodeMirror‎
-    url = git://github.com/marijnh/CodeMirror‎.git
-[submodule "highlight.js"]
-    path = asset/highlight.js
-    url = git://github.com/isagalaev/highlight.js.git
-[submodule "rainbow"]
-    path = asset/rainbow
-    url = git://github.com/ccampbell/rainbow.git
-[submodule "showdown"]
-    path = asset/showdown
-    url = git://github.com/coreyti/showdown.git
-[submodule "flatdoc"]
-    path = asset/flatdoc
-    url = git://github.com/rstacruz/flatdoc.git
-[submodule "normalize.css"]
-    path = asset/normalize.css
-    url = git://github.com/necolas/normalize.css.git
-[submodule "h5bp"]
-    path = asset/h5bp
-    url = git://github.com/h5bp/html5-boilerplate.git
-[submodule "LinkifyURL"]
-    path = asset/LinkifyURL
-    url = git://github.com/jmrware/LinkifyURL.git
-[submodule "jsHashes"]
-    path = asset/jsHashes
-    url = git://github.com/h2non/jsHashes.git
-[submodule "pygments-css"]
-    path = asset/pygments-css
-    url = git://github.com/richleland/pygments-css.git
-[submodule "webui-aria2"]
-    path = misc/webui-aria2
-    url = git://github.com/ziahamza/webui-aria2.git
-[submodule "yaaw"]
-    path = misc/yaaw
-    url = git://github.com/binux/yaaw.git
+[submodule "site/qbar"]
+	path = site/qbar
+	url = git://github.com/kafene/qbar.git
+[submodule "site/BookmarkletCombiner"]
+	path = site/BookmarkletCombiner
+	url = git://github.com/kafene/BookmarkletCombiner.git
+[submodule "site/userscripts"]
+	path = site/userscripts
+	url = git://github.com/kafene/userscripts.git
+[submodule "asset/marked"]
+	path = asset/marked
+	url = git://github.com/chjj/marked.git
+[submodule "asset/highlight.js"]
+	path = asset/highlight.js
+	url = git://github.com/isagalaev/highlight.js.git
+[submodule "asset/rainbow"]
+	path = asset/rainbow
+	url = git://github.com/ccampbell/rainbow.git
+[submodule "asset/showdown"]
+	path = asset/showdown
+	url = git://github.com/coreyti/showdown.git
+[submodule "asset/flatdoc"]
+	path = asset/flatdoc
+	url = git://github.com/rstacruz/flatdoc.git
+[submodule "asset/normalize.css"]
+	path = asset/normalize.css
+	url = git://github.com/necolas/normalize.css.git
+[submodule "asset/h5bp"]
+	path = asset/h5bp
+	url = git://github.com/h5bp/html5-boilerplate.git
+[submodule "asset/LinkifyURL"]
+	path = asset/LinkifyURL
+	url = git://github.com/jmrware/LinkifyURL.git
+[submodule "asset/jsHashes"]
+	path = asset/jsHashes
+	url = git://github.com/h2non/jsHashes.git
+[submodule "asset/pygments-css"]
+	path = asset/pygments-css
+	url = git://github.com/richleland/pygments-css.git
+[submodule "misc/webui-aria2"]
+	path = misc/webui-aria2
+	url = git://github.com/ziahamza/webui-aria2.git
+[submodule "misc/yaaw"]
+	path = misc/yaaw
+	url = git://github.com/binux/yaaw.git
