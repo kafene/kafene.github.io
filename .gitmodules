@@ -43,3 +43,9 @@
 [submodule "misc/yaaw"]
 	path = misc/yaaw
 	url = git://github.com/binux/yaaw.git
+[submodule "misc/textarea-backup.js"]
+	path = misc/textarea-backup.js
+	url = git://github.com/NV/textarea-backup.js
+[submodule "misc/nice-alert.js"]
+	path = misc/nice-alert.js
+	url = git://github.com/NV/nice-alert.js
